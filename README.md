@@ -18,29 +18,29 @@ The result from this code repo can be used instead of the [Magic Formula Investi
 
 The Option 1 is sufficient for us to use for long-term investment. However, it is also interesting to check the Option 2.
 
-<img src="doc/02_option1_step6to8.png" width="500"/>
+<kbd><img src="doc/02_option1_step6to8.png" width="500"/></kbd>
 
-<img src="doc/03_option2_general_screening.png" width="500"/>
+<kbd><img src="doc/03_option2_general_screening.png" width="500"/></kbd>
 
 ## The Magic Formula
 
-<img src="doc/04_magic_formula_return_on_capital.png" width="500"/>
+<kbd><img src="doc/04_magic_formula_return_on_capital.png" width="500"/></kbd>
 
-<img src="doc/05_magic_formula_return_on_capital.png" width="500"/>
+<kbd><img src="doc/05_magic_formula_return_on_capital.png" width="500"/></kbd>
 
-<img src="doc/06_magic_formula_return_on_capital.png" width="500"/>
+<kbd><img src="doc/06_magic_formula_return_on_capital.png" width="500"/></kbd>
 
-<img src="doc/07_magic_formula_earning_yield.png" width="500"/>
+<kbd><img src="doc/07_magic_formula_earning_yield.png" width="500"/></kbd>
 
-<img src="doc/08_magic_formula_earning_yield.png" width="500"/>
+<kbd><img src="doc/08_magic_formula_earning_yield.png" width="500"/></kbd>
 
-<img src="doc/09_magic_formula_earning_yield_example.png" width="500"/>
+<kbd><img src="doc/09_magic_formula_earning_yield_example.png" width="500"/></kbd>
 
-<img src="doc/10_magic_formula_earning_yield_example.png" width="500"/>
+<kbd><img src="doc/10_magic_formula_earning_yield_example.png" width="500"/></kbd>
 
 ## My 1-page summary of the Magic Formula
 
-<img src="doc/summary_from_the_book.jpg" width="500"/>
+<kbd><img src="doc/summary_from_the_book.jpg" width="500"/></kbd>
 
 ## References
 
