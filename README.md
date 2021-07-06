@@ -20,27 +20,27 @@ The Option 1 is sufficient for us to use for long-term investment. However, it i
 
 <img src="doc/02_option1_step6to8.png" width="500"/>
 
-![](doc/03_option2_general_screening.png)
+<img src="doc/03_option2_general_screening.png" width="500"/>
 
 ## The Magic Formula
 
-![](doc/04_magic_formula_return_on_capital.png)
+<img src="doc/04_magic_formula_return_on_capital.png" width="500"/>
 
-![](doc/05_magic_formula_return_on_capital.png)
+<img src="doc/05_magic_formula_return_on_capital.png" width="500"/>
 
-![](doc/06_magic_formula_return_on_capital.png)
+<img src="doc/06_magic_formula_return_on_capital.png" width="500"/>
 
-![](doc/07_magic_formula_earning_yield.png)
+<img src="doc/07_magic_formula_earning_yield.png" width="500"/>
 
-![](doc/08_magic_formula_earning_yield.png)
+<img src="doc/08_magic_formula_earning_yield.png" width="500"/>
 
-![](doc/09_magic_formula_earning_yield_example.png)
+<img src="doc/09_magic_formula_earning_yield_example.png" width="500"/>
 
-![](doc/10_magic_formula_earning_yield_example.png)
+<img src="doc/10_magic_formula_earning_yield_example.png" width="500"/>
 
 ## My 1-page summary of the Magic Formula
 
-![](doc/summary_from_the_book.jpg)
+<img src="doc/summary_from_the_book.jpg" width="500"/>
 
 ## References
 
