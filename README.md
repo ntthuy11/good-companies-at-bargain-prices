@@ -10,10 +10,37 @@ This code repo is an implementation of [The Little Book That Still Beats the Mar
 
 ## How to use
 
-The result from this code repo can be used instead of the [Magic Formula Investing](https://www.magicformulainvesting.com/) website. **Again, for research purposes only**
+Before we start, the first version of the Little Book can be downloaded [here](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxla3JvbmVkZXNpZ258Z3g6MmI0OTZjZTI1OTNhZTMwNw) which the below screenshots were captured from.
+
+The result from this code repo can be used instead of the [Magic Formula Investing](https://www.magicformulainvesting.com/) website. **Again, for research purposes only**.
 
 ![01_option1_step1to5.png](doc/01_option1_step1to5.png)
 
+The Option 1 is sufficient for us to use for long-term investment. However, it is also interesting to check the Option 2.
+
+![02_option1_step6to8.png](doc/02_option1_step6to8.png)
+
+![03_option2_general_screening.png](doc/03_option2_general_screening.png)
+
+## The Magic Formula
+
+![04_magic_formula_return_on_capital.png](doc/04_magic_formula_return_on_capital.png)
+
+![05_magic_formula_return_on_capital.png](doc/05_magic_formula_return_on_capital.png)
+
+![06_magic_formula_return_on_capital.png](doc/06_magic_formula_return_on_capital.png)
+
+![07_magic_formula_earning_yield.png](doc/07_magic_formula_earning_yield.png)
+
+![08_magic_formula_earning_yield.png](doc/08_magic_formula_earning_yield.png)
+
+![09_magic_formula_earning_yield_example.png](doc/09_magic_formula_earning_yield_example.png)
+
+![10_magic_formula_earning_yield_example.png](doc/10_magic_formula_earning_yield_example.png)
+
+## My 1-page summary of the Magic Formula
+
+![summary_from_the_book.jpg](doc/summary_from_the_book.jpg)
 
 ## References
 
