@@ -8,7 +8,7 @@ This code repo is an implementation of [The Little Book That Still Beats the Mar
 
 - My implementation is based on free data of [NASDAQ screener](https://www.nasdaq.com/market-activity/stocks/screener) with [NASDAQ API](https://api.nasdaq.com/api/screener/stocks) and [Yahoo Finance](https://finance.yahoo.com/). So my final result could be a bit different from Greenblatt's.
 
-- The codes are in Python and work in Jupyter Notebook.
+- The codes are in Python and work in Jupyter Notebook ([how to install](https://jupyter.org/install)).
 
 - There are many more statistical numbers that can be dug into and played around, such as **key statistics of a company**, **history**, **actions**, **dividends**, **splits**, **financials**, **major holders**, **institutional holders**, **balance sheet**, **cash flow**, **earnings**, **sustainability**, **recommendations**, **calendar**, and **options**.
 
@@ -44,7 +44,7 @@ The Option 1 is sufficient for us to use for long-term investment. However, it i
 
 ## My 1-page summary of the Magic Formula
 
-<kbd><img src="doc/summary_from_the_book.jpg" width="700"/></kbd>
+<kbd><img src="doc/summary_from_the_book.jpg" width="800"/></kbd>
 
 ## References
 
