@@ -14,11 +14,11 @@ Before we start, the first version of the Little Book can be downloaded [here](h
 
 The result from this code repo can be used instead of the [Magic Formula Investing](https://www.magicformulainvesting.com/) website. **Again, for research purposes only**.
 
-<img src="doc/01_option1_step1to5.png" width="200"/>
+<img src="doc/01_option1_step1to5.png" width="500"/>
 
 The Option 1 is sufficient for us to use for long-term investment. However, it is also interesting to check the Option 2.
 
-![](doc/02_option1_step6to8.png)
+<img src="doc/02_option1_step6to8.png" width="500"/>
 
 ![](doc/03_option2_general_screening.png)
 
